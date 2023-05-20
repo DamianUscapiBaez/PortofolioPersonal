@@ -15,11 +15,11 @@ export const Projects = () => {
             description: "Sistema de venta y inventario",
             imgUrl: projImg2,
         },
-        // {
-        //     title: "Business Startup",
-        //     description: "Design & Development",
-        //     imgUrl: projImg3,
-        // },
+        {
+            title: "Portafolio Personal",
+            description: "Desarrollado en React",
+            imgUrl: projImg3,
+        },
         // {
         //     title: "Business Startup",
         //     description: "Design & Development",
