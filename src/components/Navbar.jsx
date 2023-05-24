@@ -71,7 +71,7 @@ export const Navbar = (props) => {
                                 <a href='https://github.com/DamianUscapiBaez'><img src={navIcon2} /></a>
                                 <a href='https://www.linkedin.com/in/damian-uscapi-baez-576a911b2/'><img src={navIcon3} /></a>
                             </div>
-                            {/* <button className='vvd'><span>Contactame</span></button> */}
+                            <button className='vvd'><span>Contactame</span></button>
                         </span>
                     </Box>
                 </Toolbar>

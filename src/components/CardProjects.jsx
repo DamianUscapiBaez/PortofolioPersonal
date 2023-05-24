@@ -7,7 +7,7 @@ export const CardProjects = ({ title, description, imgUrl }) => {
                 <CardMedia
                     sx={{ height: "200px" }}
                     image={imgUrl}
-                    title="green iguana"
+                    // title="green iguana"
                 />
                 <CardContent>
                     <Typography gutterBottom variant="h6" component="div">
